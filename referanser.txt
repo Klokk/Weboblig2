@@ -1,0 +1,9 @@
+REFERANSER
+
+Header picture: https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_536,q_65,w_768/v1/clients/norway/cycling_rallarvegen_norway_2_1_34639e0b-2f90-44ba-92e7-c2a1bd3e6c89.jpg
+Logo:                    http://www.camberleytreecompany.co.uk/justmanlogo.png
+
+index:		
+Tilbud:		https://www.nasjonalparkriket.no/bok/se-gjore/a1373912/besseggen-i-jotunheimen/showdetails?filter=g%3D104715
+om oss:		http://www.iconninja.com/files/714/249/69/letter-message-mail-envelop-email-icon.png
+priser:                         https://www.haugastol.no/_rsc/images/00/00/40-d9dc20517b-1024.jpg
